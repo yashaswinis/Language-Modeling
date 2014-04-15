@@ -1,0 +1,36 @@
+After running the program, please specify the file path for the training and test data depending on the option.
+
+Example execution:
+C:\Python27\python.exe C:/Users/rems/PycharmProjects/nlp_final/nlp_final.py
+
+Choose one of the following: 
+1 - Unigram Model
+2 - Bigram Model
+3 - Random Sentence Generation
+4 - Good Turing Smoothing
+5 - Perplexity
+6 - Trigram(Extension)
+7 - Truthfulness of the review
+0 - Exit
+
+Enter your input: 3
+Enter training file name:C:/Users/rems/Documents/NLP/bible_corpus/bible_corpus/kjbible.train
+
+....
+
+
+C:\Python27\python.exe C:/Users/rems/PycharmProjects/nlp_final/nlp_final.py
+
+Choose one of the following: 
+1 - Unigram Model
+2 - Bigram Model
+3 - Random Sentence Generation
+4 - Good Turing Smoothing
+5 - Perplexity
+6 - Trigram(Extension)
+7 - Truthfulness of the review
+0 - Exit
+
+Enter your input: 5
+Enter training file name:C:/Users/rems/Documents/NLP/bible_corpus/bible_corpus/kjbible.train
+Enter the test file name:C:/Users/rems/Documents/NLP/bible_corpus/bible_corpus/kjbible.test
